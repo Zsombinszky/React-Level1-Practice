@@ -1,0 +1,6 @@
+Please go through the components in the following order:
+CatHeader, CatFooter, CatList, CatTable, CatCard, CatGrid, CatContent, CatPage, and finally App.jsx.
+
+Each file contains helpful comments outlining the minimum tasks you need to complete. However, if you feel like adding extra features or improving the styling, go for it—don't hold back! :)
+
+Good luck and have fun working on it!
