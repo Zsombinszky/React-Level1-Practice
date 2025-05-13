@@ -1,3 +1,8 @@
+## 📘 Használat
+
+Ez egy template repository. Kattints a [Use this template](https://github.com/Zsombinszky/React-Level1-Practice/generate) gombra a saját példányod létrehozásához.
+
+
 Please go through the components in the following order:
 CatHeader, CatFooter, CatList, CatTable, CatCard, CatGrid, CatContent, CatPage, and finally App.jsx.
 
